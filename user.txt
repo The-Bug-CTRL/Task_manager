@@ -1,0 +1,13 @@
+admin, adm1n
+hello, hello
+yello, yello
+andrew, andrew
+yes, yes
+bye, bye
+far, far
+jeep, jeep
+jello, jello
+tom, tom
+julle, julle
+task, task
+faith, faith

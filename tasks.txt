@@ -1,0 +1,15 @@
+admin, Register Users with task_manager.py, Use task_manager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, Yesadmin, Assign initial tasks, Use task_manager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
+
+admin, admin, admin, 12 Dec 2020, 29 Oct 2023, Yes
+
+far, jack, jack, 12 Dec 2026, 29 Oct 2023, No
+
+bye, bywe, bye, 12 Dec 2028, 29 Oct 2023, Yes
+
+jeep, jeep, jeep, 12 Dec 2029, 30 Oct 2023, Yes
+
+julle, julle, julle, 12 Dec 2020, 30 Oct 2023, Yes
+
+admin, task, task, 12 Dec 2018, 30 Oct 2023, No
+
+faith, faith, faith faith, 12 Dec 2012, 30 Oct 2023, Yes
