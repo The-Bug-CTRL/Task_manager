@@ -1,0 +1,47 @@
+User Overview:
+Total number of users: 13
+Total number of tasks generated: 8
+
+User Task Statistics:
+User: admin
+Total tasks assigned: 3
+Percentage of tasks assigned to the user: 37.50%
+Percentage of completed tasks: 33.33%
+Percentage of tasks that must still be completed: 66.67%
+Percentage of overdue tasks: 66.67%
+
+User: far
+Total tasks assigned: 1
+Percentage of tasks assigned to the user: 12.50%
+Percentage of completed tasks: 0.00%
+Percentage of tasks that must still be completed: 100.00%
+Percentage of overdue tasks: 100.00%
+
+User: bye
+Total tasks assigned: 1
+Percentage of tasks assigned to the user: 12.50%
+Percentage of completed tasks: 100.00%
+Percentage of tasks that must still be completed: 0.00%
+Percentage of overdue tasks: 0.00%
+
+User: jeep
+Total tasks assigned: 1
+Percentage of tasks assigned to the user: 12.50%
+Percentage of completed tasks: 100.00%
+Percentage of tasks that must still be completed: 0.00%
+Percentage of overdue tasks: 0.00%
+
+User: julle
+Total tasks assigned: 1
+Percentage of tasks assigned to the user: 12.50%
+Percentage of completed tasks: 100.00%
+Percentage of tasks that must still be completed: 0.00%
+Percentage of overdue tasks: 0.00%
+
+User: faith
+Total tasks assigned: 1
+Percentage of tasks assigned to the user: 12.50%
+Percentage of completed tasks: 100.00%
+Percentage of tasks that must still be completed: 0.00%
+Percentage of overdue tasks: 0.00%
+
